@@ -11,7 +11,7 @@
 ### About Me  
 - 🌟 I’m a **Frontend Developer** with a passion for building responsive and user-friendly applications.  
 - 🌱 Currently learning **Full-Stack Development** and working with **React**, **Next.js**, and **Node.js**.  
-- 🛠️ Completed **two freelance projects** delivering high-quality solutions.  
+- 🛠️ Completed **some freelance projects** delivering high-quality solutions.  
 - 📫 Reach me at **dalipdivakar@gmail.com**  
 
 ---
