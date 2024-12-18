@@ -1,73 +1,60 @@
-### Hi there 👋
+### Hi there! 👋  
+<h1 align="center">I'm Dalip Kumar</h1>
+<h3 align="center">Frontend Developer | Full-Stack Enthusiast | Freelancer</h3>
 
-<h1 align="center">Hi, I'm Dalip Kumar 🙂</h1>
-<h3 align="center">A passionate Frontend Developer and Full-Stack Enthusiast from India</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dalip03&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=dalip03&label=Profile%20Views&color=0e75b6&style=flat" alt="dalip03" /> 
-  <a href="https://twitter.com/dalipdivaker" target="blank">
-    <img src="https://img.shields.io/twitter/follow/dalipdivaker?logo=twitter&style=for-the-badge" alt="dalipdivaker" />
+---
+
+### About Me  
+- 🌟 I’m a **Frontend Developer** with a passion for building responsive and user-friendly applications.  
+- 🌱 Currently learning **Full-Stack Development** and working with **React**, **Next.js**, and **Node.js**.  
+- 🛠️ Completed **two freelance projects** delivering high-quality solutions.  
+- 📫 Reach me at **dalipdivakar@gmail.com**  
+
+---
+
+### 🔗 Connect With Me  
+<p align="left">
+  <a href="https://linkedin.com/in/dalip-divaker-077a021b5" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/dalipdivaker" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://instagram.com/dalipdivaker" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-- 🔭 I’m currently working on **exciting React, Next.js, and Node.js projects**
-- 🌱 I’m honing my skills in **Full-Stack Development** 
-- 🌟 I’ve successfully completed **two freelance projects** 
-- 📫 How to reach me: **dalipdivakar@gmail.com**
-
----
-
-<h2 align="center">🚀 Connect With Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/dalip-divaker-077a021b5" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/dalipdivaker" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" />
-  </a>
-  <a href="https://instagram.com/dalipdivaker" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
-  <a href="https://fb.com/dalip.divaker" target="blank">
-    <img src="https://img.icons8.com/color/48/000000/facebook.png" alt="Facebook" />
-  </a>
+### 🚀 Skills & Tools  
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
-</p>
+### 📊 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dalip03&show_icons=true&theme=tokyonight" alt="Dalip's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalip03&layout=compact&theme=tokyonight" alt="Dalip's Top Languages" />
+</div>
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dalip03&show_icons=true&locale=en&theme=radical" alt="dalip03" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dalip03&show_icons=true&locale=en&layout=compact&theme=radical" alt="dalip03" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dalip03&theme=radical" alt="dalip03" />
-</p>
-
----
-
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dalip03&theme=dracula" alt="dalip03" />
-  </a>
-</p>
+### 🏆 Achievements  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dalip03&theme=tokyonight&no-frame=true&row=1&column=7" alt="Dalip's Achievements" />
+</div>
